@@ -12,4 +12,8 @@
 <h1> TinDog-Clone </h1>
 <p> Recreated TinDog webpage using HTML, CSS and BootStrap <br>
   Played with BootStrap more this time <br>
-  My suggestion is to clone the website you like and debug them in browser to understand the basics of web development concepts like layout, Grid, Buttons, and many more
+  My suggestion is to clone the website you like and debug them in browser to understand the basics of web development concepts like layout, Grid, Buttons, and many more </br>
+  
+  <h3> #CloneWebSite </h3>
+
+  
