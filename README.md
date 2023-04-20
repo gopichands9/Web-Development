@@ -19,7 +19,8 @@
   
 <h1> Dice Game </h1>
 <p> Performed some basic DOM manipulations <br>
-written basic JavaScript code <br>
+written basic JavaScript code to manipulate HTML elements <br>
 Played with basic JavaScript inbuilt functions <br>
+
 
 <h3> #DOM </h3>
